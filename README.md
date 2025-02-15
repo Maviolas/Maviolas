@@ -93,7 +93,8 @@ Me chamo Matheus de Carvalho Gomes, tenho 21 anos e sou Auditor de Sistemas e ap
 <img 
       align="left" 
       alt="GitHub Stats"
-      height="150" 
+      height="200"
+      width="380"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maviolas&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
